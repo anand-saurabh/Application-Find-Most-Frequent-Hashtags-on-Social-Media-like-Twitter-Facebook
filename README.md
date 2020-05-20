@@ -1,7 +1,7 @@
 # Application-Find-Most-Frequent-Hashtags-on-Social-Media-like-Twitter-Facebook
 
 
-output for input file "sampleInput.txt" (present in  input_output files folder) :
+output screenshot for input file "sampleInput.txt" (present in input_output files folder) is attached in the output folder.
 
 &nbsp;
 
