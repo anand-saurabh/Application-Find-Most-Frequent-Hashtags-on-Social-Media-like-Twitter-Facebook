@@ -48,7 +48,6 @@ Hashtags appear one per line in the input file and start with # sign. After the 
 5
 stop
 
-
 Output Format:
 For each query n, you need to write the n most popular hashtags (i.e., highest frequency) to the output file in descending order of frequency (ties may be broken arbitrarily). The output for a query should be a comma separated list occupying a single line in the output “output_file.txt”. There should be no space character after the commas.
 Following is the output file for the above input file.
