@@ -1,5 +1,12 @@
 # Application-Find-Most-Frequent-Hashtags-on-Social-Media-like-Twitter-Facebook
 
+
+output for input file "sampleInput.txt" (present in  input_output files folder) :
+
+&nbsp;
+
+![](output/fibo_output.JPG)
+
 Problem description:
 
 You are required to implement a system to find the n most popular hashtags that appear on social media such as Facebook or Twitter. For the scope of this project hashtags will be given from an input file.
