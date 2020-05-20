@@ -5,6 +5,7 @@ output for input file "sampleInput.txt" (present in  input_output files folder) 
 
 &nbsp;
 
+
 ![](output/fibo_output.JPG)
 
 Problem description:
